@@ -1,2 +1,2 @@
 # GetACLEntries
-PowerShell script that outputs access control entries to a text file
+ THis is a PowerShell script that outputs access control entries to a text file. This script allows the user to enter a path and the number of subfolders to traverse. The information is formatted for readability and includes the path, time run, and depth in the header. The data is arranged by lowest depth, then alphabetically. The default output location is C:\ with the file name specified.
